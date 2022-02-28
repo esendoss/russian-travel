@@ -1,0 +1,13 @@
+.page__borders_bottom {
+    padding-bottom: 92px;
+}
+@media screen and (max-width: 768px) {
+    .page__borders_bottom {
+        padding-bottom: 88px;    
+    }   
+}
+@media screen and (max-width: 554px) {
+    .page__borders_bottom {
+        padding-bottom: 64px;    
+    }   
+}

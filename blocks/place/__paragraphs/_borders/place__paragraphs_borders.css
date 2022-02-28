@@ -1,0 +1,8 @@
+.place__paragraphs_borders {
+
+}
+@media screen and (max-width: 460px) {
+    .place__paragraphs_borders {
+        padding: 0 16px;
+    }
+}

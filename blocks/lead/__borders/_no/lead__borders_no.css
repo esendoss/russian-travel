@@ -1,0 +1,9 @@
+.lead__borders_no {
+
+}
+@media screen and (max-width: 768px) {
+    .lead__borders_no {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

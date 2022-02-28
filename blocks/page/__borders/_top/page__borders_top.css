@@ -1,0 +1,8 @@
+.page__borders_top {
+    padding-top: 56px;
+}
+@media screen and (max-width: 1024px) {
+    .page__borders_top {
+        padding-top: 48px;
+    }    
+}

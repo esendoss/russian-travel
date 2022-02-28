@@ -1,0 +1,9 @@
+.cover__borders_no {
+    
+}
+@media screen and (max-width: 1144px) {
+    .cover__borders_no {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

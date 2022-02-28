@@ -1,0 +1,9 @@
+.place__website_borders {
+
+}
+@media screen and (max-width: 460px) {
+    .place__website_borders {
+        padding: 0 16px;
+
+    }
+}

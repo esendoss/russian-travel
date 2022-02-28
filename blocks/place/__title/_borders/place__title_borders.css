@@ -1,0 +1,8 @@
+.place__title_borders {
+
+}
+@media screen and (max-width: 460px) {
+    .place__title_borders {
+        padding: 0 16px;
+    }
+}

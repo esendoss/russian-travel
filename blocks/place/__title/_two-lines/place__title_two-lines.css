@@ -1,0 +1,8 @@
+.place__title_two-lines {
+
+}
+@media screen and (max-width: 768px) {
+    .place__title_two-lines {
+        width: 90%;
+    }
+}
