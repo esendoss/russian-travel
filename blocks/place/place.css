@@ -3,7 +3,7 @@
     display: grid;
     color: white;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 48px 40px;    
+    grid-gap: 48px 40px;
     grid-template-areas: 
         'title website'
         'img paragraph';
