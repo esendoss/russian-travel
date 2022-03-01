@@ -9,7 +9,6 @@
     overflow: hidden;
     text-decoration: none;
     color: white;
-    min-height: 320px;
     padding: 245px 312px;
 }
 @media (max-width: 1224px) {
@@ -28,4 +27,9 @@
     .cover__background {
       padding: 33px 16px;
     }
+}
+@media (max-width: 320px) {
+  .cover__background {
+    justify-content: flex-start;
+  }
 }
