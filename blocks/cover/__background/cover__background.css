@@ -16,13 +16,11 @@
       padding: 195px 232px;
     }
 }
-
 @media (max-width: 968px) {
     .cover__background {
       padding: 115px 104px;
     }
 }
-
 @media (max-width: 712px) {
     .cover__background {
       padding: 33px 16px;
