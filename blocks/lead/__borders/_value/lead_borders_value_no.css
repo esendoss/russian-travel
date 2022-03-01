@@ -1,8 +1,8 @@
-.lead__borders_no {
+.lead_borders_value_no {
 
 }
 @media screen and (max-width: 768px) {
-    .lead__borders_no {
+    .lead_borders_value_no {
         padding-left: 0;
         padding-right: 0;
     }

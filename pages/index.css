@@ -43,8 +43,8 @@
 @import url(../blocks/page/__borders/_desktop/page__borders_desktop.css);
 @import url(../blocks/page/__borders/_top/page__borders_top.css);
 @import url(../blocks/page/__borders/_bottom/page__borders_bottom.css);
-@import url(../blocks/lead/__borders/_no/lead__borders_no.css);
-@import url(../blocks/cover/__borders/_no/cover__borders_no.css);
+@import url(../blocks/lead/__borders/_value/lead_borders_value_no.css);
+@import url(../blocks/cover/__borders/_value/cover_borders_value_no.css);
 @import url(../blocks/place/__title/_borders/place__title_borders.css);
 @import url(../blocks/place/__title/_two-lines/place__title_two-lines.css);
 @import url(../blocks/place/__website/_borders/place__website_borders.css);
