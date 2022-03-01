@@ -1,8 +1,8 @@
-.cover_borders_value_no {
+.cover_borders_no {
     
 }
 @media screen and (max-width: 1144px) {
-    .cover_borders_value_no {
+    .cover_borders_no {
         padding-left: 0;
         padding-right: 0;
     }
