@@ -8,5 +8,11 @@
 ---
 - верстка - HTML5, стили - CCS3 (Flexbox, Grid Layout) 
 - БЭМ
+- Figma
+
+**Планы по доработке:**
+- Улучшить адаптивность сайта
+- Добавить применение JavaScript
+- Добавить информацию о других уникальных местах для посещения
 
 *[ссылка на GitHub Pages](https://esendoss.github.io/russian-travel/)*
